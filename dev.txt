@@ -1,3 +1,7 @@
 dev branchddddd
 aaaaaa
+<<<<<<< HEAD
 master
+=======
+bbbb
+>>>>>>> feature1
